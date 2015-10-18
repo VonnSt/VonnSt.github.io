@@ -1,5 +1,27 @@
+<style type= "text/css">
+
+.outer {
+    position: relative;
+    background: url("http://31.media.tumblr.com/f3d4b43c80e443c40c7315d4cb95312d/tumblr_nqt8jjvwZ01tazxoto1_500.gif");
+    width: 500px;
+    height: 309px;
+  }
+  .bottomleft {
+    position: absolute;
+    bottom: -60em;
+    left: 30em;
+    width: 400px;
+    font-weight: bold;
+    color: #fff;
+  }
+
+
+
 .jumbotron{
 height: 25%;
 width: 100%;
-background-image: url("http://2.bp.blogspot.com/-6Ajyq6WxyGs/UXmr_c6zbTI/AAAAAAAAIc0/SsISZIB_COU/s1600/flipping+pages+book.gif");
-}
+background-image: url("http://33.media.tumblr.com/79d4989ed765c51d0f28e3086ac3c192/tumblr_inline_nil148sJTi1rs71sz.gif");
+
+
+
+

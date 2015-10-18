@@ -1,0 +1,10 @@
+header.jumbotron{
+height: 25%;
+width: 100%;
+background-image: url("http://2.bp.blogspot.com/-6Ajyq6WxyGs/UXmr_c6zbTI/AAAAAAAAIc0/SsISZIB_COU/s1600/flipping+pages+book.gif");
+}
+
+body.jumbotron {
+width:10%;
+color: black;
+}
